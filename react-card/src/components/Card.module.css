@@ -1,0 +1,38 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+.flex_space{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.caseStudy{
+    background-color: black;
+    color: white;
+    width: 100px;
+    margin-top:15px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.card{
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    text-align: left;
+    
+}
+.devices{
+    font-size: 21px;
+}
+.size{
+    font-size: 40px;
+}
+img{
+    width: 100px;
+}
